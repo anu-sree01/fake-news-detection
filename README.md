@@ -9,9 +9,27 @@ The system analyzes textual content from news statements and predicts whether th
 
 Project Objectives
 
--Detect fake and real news articles automatically
--Apply NLP preprocessing and feature extraction techniques
--Train machine learning classifiers for text classification
--Analyze linguistic patterns present in fake news
--Build a deployable web application using Streamlit
+- Detect fake and real news articles automatically
+
+- Apply NLP preprocessing and feature extraction techniques
+
+- Train machine learning classifiers for text classification
+
+- Analyze linguistic patterns present in fake news
+
+- Build a deployable web application using Streamlit
+
+# Dataset Used
+
+## LIAR Dataset
+
+The project uses the LIAR dataset, a benchmark dataset for fake news detection.
+
+The dataset contains:
+
+- Short political statements
+- Truthfulness labels
+- Speaker information
+- Contextual metadata
+
 
