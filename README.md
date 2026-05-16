@@ -135,7 +135,7 @@ A lighter, faster version of BERT fine-tuned on raw statement text. Understands 
 
 # Streamlit Deployment
 
-A web application was developed using Streamlit to allow users to test news statements interactively.
+A web application was developed using Streamlit to allow users to test news statements interactively. The app uses the Logistic Regression model with TF-IDF vectorization for real-time predictions.
 
 
 https://fake-news-detection-bl45vnkqyrck9c8qchtddr.streamlit.app/
