@@ -18,7 +18,7 @@ Project Objectives
 
 - Build a deployable web application using Streamlit
 
-👥 Team Members
+# 👥 Team Members
 
  Name | Register No. |
 | ------- | -------- | 
