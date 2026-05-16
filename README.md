@@ -93,6 +93,7 @@ Python
 5. Model Training
 6. Model Evaluation
 7. Model Serialization using Pickle
+
 8.Streamlit Deployment
 
 # Model Training
