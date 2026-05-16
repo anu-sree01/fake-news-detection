@@ -79,7 +79,9 @@ Python
 
 ## Machine Learning Models
 -Logistic Regression (trained and deployed)
+
 -Gradient Boosting (trained and evaluated)
+
 -DistilBERT / Transformer (fine-tuned and evaluated)
 
 # Project Workflow
