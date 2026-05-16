@@ -44,6 +44,9 @@ The dataset contains:
 
 <img width="1527" height="616" alt="image" src="https://github.com/user-attachments/assets/0f788bab-b49f-45a0-93e1-0f9cd333caa1" />
 
+## Binary label distribution (Fake vs Real)
+
+<img width="704" height="584" alt="image" src="https://github.com/user-attachments/assets/bcd4e412-0c89-4b5e-8d39-9764a764201b" />
 
 
 # Technologies Used
