@@ -1,7 +1,6 @@
 # fake-news-detection
-predictive project-3
 
-Introduction
+# Introduction
 
 Fake news has become a major challenge in the digital era, influencing public opinion and spreading misinformation rapidly through social media and online platforms. This project focuses on detecting fake and real news articles using Natural Language Processing (NLP) and Machine Learning techniques.
 
@@ -32,4 +31,26 @@ The dataset contains:
 - Speaker information
 - Contextual metadata
 
+# Technologies Used
 
+## Programming Language
+
+Python
+
+## Libraries and Frameworks
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Pickle
+
+## NLP Techniques
+
+- TF-IDF Vectorization
+- Text preprocessing
+- Feature extraction
+- 
+## Machine Learning Models
+- Logistic Regression
+- Gradient Boosting (project workflow)
+- Transformer/BERT concepts (project study)
