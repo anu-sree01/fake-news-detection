@@ -52,6 +52,11 @@ The dataset contains:
 
 <img width="1904" height="656" alt="image" src="https://github.com/user-attachments/assets/fccce9e6-5ef9-438d-a280-8af40c6d1ef3" />
 
+## Correlation Heatmap of Numeric Features 
+
+<img width="1146" height="944" alt="image" src="https://github.com/user-attachments/assets/0ad5e27d-194f-4865-b271-5eb7a543dd65" />
+
+
 # Technologies Used
 
 ## Programming Language
