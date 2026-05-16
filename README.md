@@ -20,9 +20,10 @@ Project Objectives
 
 👥 Team Members
 
-AKSHAYA K P
-
-ANUSREE S
+ Name | Register No. |
+| ------- | -------- | 
+| Akshaya K P | 253214 |
+| Anusree S|  |
 
 
 # Dataset Used
