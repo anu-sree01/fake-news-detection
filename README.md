@@ -112,7 +112,7 @@ Advanced NLP transformer-based models studied for contextual understanding and f
 | Logistic Regression | 63-66% | ~0.64 |~0.63  | ~0.63 | ~0.68 |
 | Gradient Boosting |65-68%  |~0.66  | ~0.65 | ~0.65 | ~0.70 |
 | DistilBERT |68-72%  |~0.70  |~0.69  |~0.69  | ~0.75 |
-**Best Model is  DistilBert**
+Best Model is  DistilBert
 
 
 ## Steps Involved
