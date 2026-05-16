@@ -96,4 +96,17 @@ A web application was developed using Streamlit to allow users to test news stat
 - Fake/Real classification output
 - Cached model loading for faster performance
 
-  
+# Sample Prediction Flow
+
+1. User enters a news statement
+2. Text is transformed using TF-IDF vectorizer
+3. Trained model predicts the label
+4. App displays:
+    - Fake News
+    - Real News
+      
+# Results
+
+The model successfully performs fake news classification using NLP-based textual analysis.
+
+
