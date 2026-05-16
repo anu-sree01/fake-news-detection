@@ -105,6 +105,15 @@ An ensemble learning method included in the project workflow for improving class
 ### DistilBERT / Transformer Models
 Advanced NLP transformer-based models studied for contextual understanding and fake news classification.
 
+# Evaluation metrics
+| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+|------|---------:|----------:|-------:|---------:|--------:|
+| Logistic Regression |  |  |  |  |  |
+| Gradient Boosting |  |  |  |  |  |
+| DistilBERT |  |  |  |  |  |
+**Best Model is **
+
+
 ## Steps Involved
 
 - Load training and testing datasets
