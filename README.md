@@ -83,3 +83,17 @@ The project trains a Logistic Regression classifier using TF-IDF vectorized news
 
 - model.pkl
 - vectorizer.pkl
+
+# Streamlit Deployment
+
+A web application was developed using Streamlit to allow users to test news statements interactively.
+
+## Features of the App
+
+- User-friendly interface
+- Text input for news statements
+- Real-time prediction
+- Fake/Real classification output
+- Cached model loading for faster performance
+
+  
