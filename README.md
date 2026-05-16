@@ -9,9 +9,9 @@ The system analyzes textual content from news statements and predicts whether th
 
 Project Objectives
 
-Detect fake and real news articles automatically
-Apply NLP preprocessing and feature extraction techniques
-Train machine learning classifiers for text classification
-Analyze linguistic patterns present in fake news
-Build a deployable web application using Streamlit
+-Detect fake and real news articles automatically
+-Apply NLP preprocessing and feature extraction techniques
+-Train machine learning classifiers for text classification
+-Analyze linguistic patterns present in fake news
+-Build a deployable web application using Streamlit
 
