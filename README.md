@@ -103,10 +103,10 @@ Python
 A linear machine learning model used for text classification and fake news detection using TF-IDF + hand-crafted features. Fast, interpretable, and strong on sparse text data. Powers the deployed Streamlit app.
 
 ### Gradient Boosting
-An ensemble learning method included in the project workflow for improving classification performance.
+An ensemble learning method trained on hand-crafted linguistic and credibility features (speaker history, counts, etc.) to capture non-linear patterns for improved classification performance.
 
 ### DistilBERT / Transformer Models
-Advanced NLP transformer-based models studied for contextual understanding and fake news classification.
+A lighter, faster version of BERT fine-tuned on raw statement text. Understands language in context rather than just word frequency — provides the highest accuracy among the three models.
 
 # Evaluation metrics
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
