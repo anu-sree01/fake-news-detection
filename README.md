@@ -96,4 +96,15 @@ A web application was developed using Streamlit to allow users to test news stat
 - Fake/Real classification output
 - Cached model loading for faster performance
 
-  
+  # Project overview
+
+  Fake_news/
+│
+├── app.py
+├── train_model.py
+├── model.pkl
+├── vectorizer.pkl
+├── train.tsv
+├── test.tsv
+├── valid.tsv
+└── README.md
