@@ -38,6 +38,12 @@ The dataset contains:
 - Speaker information
 - Contextual metadata
 
+# Exploratory Data Analysis (EDA)
+
+## Truthfulness Label Distribution
+
+
+
 # Technologies Used
 
 ## Programming Language
