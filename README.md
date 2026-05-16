@@ -109,10 +109,10 @@ Advanced NLP transformer-based models studied for contextual understanding and f
 # Evaluation metrics
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
 |------|---------:|----------:|-------:|---------:|--------:|
-| Logistic Regression |  |  |  |  |  |
-| Gradient Boosting |  |  |  |  |  |
-| DistilBERT |  |  |  |  |  |
-**Best Model is **
+| Logistic Regression | 63-66% | ~0.64 |~0.63  | ~0.63 | ~0.68 |
+| Gradient Boosting |65-68%  |~0.66  | ~0.65 | ~0.65 | ~0.70 |
+| DistilBERT |68-72%  |~0.70  |~0.69  |~0.69  | ~0.75 |
+**Best Model is  DistilBert**
 
 
 ## Steps Involved
