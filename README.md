@@ -48,6 +48,9 @@ The dataset contains:
 
 <img width="704" height="584" alt="image" src="https://github.com/user-attachments/assets/bcd4e412-0c89-4b5e-8d39-9764a764201b" />
 
+## Word cloud 
+
+<img width="1904" height="656" alt="image" src="https://github.com/user-attachments/assets/fccce9e6-5ef9-438d-a280-8af40c6d1ef3" />
 
 # Technologies Used
 
