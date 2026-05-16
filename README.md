@@ -76,11 +76,11 @@ Python
 - TF-IDF Vectorization
 - Text preprocessing
 - Feature extraction
-- 
+
 ## Machine Learning Models
-- Logistic Regression
-- Gradient Boosting (project workflow)
-- Transformer/BERT concepts (project study)
+-Logistic Regression (trained and deployed)
+-Gradient Boosting (trained and evaluated)
+-DistilBERT / Transformer (fine-tuned and evaluated)
 
 # Project Workflow
 
