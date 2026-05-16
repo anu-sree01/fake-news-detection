@@ -153,7 +153,7 @@ https://fake-news-detection-bl45vnkqyrck9c8qchtddr.streamlit.app/
     - Fake News
     - Real News
       
-# Result
+# Results
 
 The model successfully performs fake news classification using NLP-based textual analysis.
 
