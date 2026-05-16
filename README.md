@@ -94,6 +94,8 @@ The project trains a Logistic Regression classifier using TF-IDF vectorized news
 # Streamlit Deployment
 
 A web application was developed using Streamlit to allow users to test news statements interactively.
+
+
 https://fake-news-detection-bl45vnkqyrck9c8qchtddr.streamlit.app/
 
 ## Features of the App
