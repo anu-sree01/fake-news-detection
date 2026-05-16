@@ -18,6 +18,11 @@ Project Objectives
 
 - Build a deployable web application using Streamlit
 
+👥 Team Members
+AKSHAYA K P
+ANUSREE S
+
+
 # Dataset Used
 
 ## LIAR Dataset
