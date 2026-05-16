@@ -94,7 +94,16 @@ Python
 
 # Model Training
 
-The project trains a Logistic Regression classifier using TF-IDF vectorized news statements.
+## Models Used
+
+### Logistic Regression
+A linear machine learning model used for text classification and fake news detection using TF-IDF features.
+
+### Gradient Boosting
+An ensemble learning method included in the project workflow for improving classification performance.
+
+### DistilBERT / Transformer Models
+Advanced NLP transformer-based models studied for contextual understanding and fake news classification.
 
 ## Steps Involved
 
