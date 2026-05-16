@@ -42,6 +42,7 @@ The dataset contains:
 
 ## Truthfulness Label Distribution
 
+<img width="1527" height="616" alt="image" src="https://github.com/user-attachments/assets/0f788bab-b49f-45a0-93e1-0f9cd333caa1" />
 
 
 
