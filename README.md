@@ -100,7 +100,7 @@ Python
 ## Models Used
 
 ### Logistic Regression
-A linear machine learning model used for text classification and fake news detection using TF-IDF features.
+A linear machine learning model used for text classification and fake news detection using TF-IDF + hand-crafted features. Fast, interpretable, and strong on sparse text data. Powers the deployed Streamlit app.
 
 ### Gradient Boosting
 An ensemble learning method included in the project workflow for improving classification performance.
